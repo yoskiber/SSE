@@ -1,4 +1,4 @@
-## Sistem Pendukung Keputusan Penerimaan Beasiswa (SAW) sederhana
+## SSE
 
 ### Cara menjalankan
 1. Clone repository dengan perintah
